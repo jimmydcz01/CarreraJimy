@@ -24,7 +24,7 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Jimmy Carrera, estudiante universitario esmeraldeño que estudia desde hace 3 años en la Universidad Tecnica Luis Vargas Torres, en la carrera de Tecnología de la Información.</p>
+                   <p class="eys-parrafo">Hola, yo soy <b>Jimmy Carrera</b>, estudiante universitario esmeraldeño que estudia desde hace 3 años en la Universidad Tecnica Luis Vargas Torres, en la carrera de Tecnología de la Información.</p>
                    <p class="eys-parrafo">Desde mís estudios primarios me he apacionado por hacer las cosas de la mejor manera: con responsabilidad, empeño, esfuerzo y sacrificio, teniendo siempre presente el aprender y capacitarme cada vez que veo nuevas cosas y poder tener esas ganas y cero conformismo de adquirir mas y hacerlo de manera propia. </p>
 <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el primer ciclo de la universidad fue <b><a href="https://es.wikipedia.org/wiki/C%2B%2B"> C++</a></b>  para este tiempo la UTELVT contaba con laboratorios de computadora no en muy buen estado.</p>
 
@@ -78,13 +78,13 @@ include("marco-left.php")
  
 <script >  
 
- document.title="Stalin"; 
+ document.title="Jimmy"; 
 document.getElementById("foto").src="./images/stalin.png";
 document.getElementById("elnombre").innerHTML="Jimmy Carrera";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://highkickesmeraldas.com/BarrePadilla/'>Barre Padilla</a></p><p><a href='https://highkickesmeraldas.com/CorozoAlexandra/'>Alexandra Corozo</a></p> ";
  </script>
  
 <?php
