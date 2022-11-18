@@ -119,7 +119,6 @@ width:30%;
         <a href="#blog-seccion2">Estudios</a>
         <a href="#blog-seccion3">Conocimiento Informático</a>
         <a href="#blog-seccion4">Hooby</a>
-        <a href="eys-desarrollo-web.php">Desarrollo Web</a>
     	<a href="donacion.php">&#128151; Donaciones</a>
         </div>
     
